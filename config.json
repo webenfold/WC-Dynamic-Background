@@ -1,5 +1,9 @@
 {
 	"2018": {
-		"04": "url"
+		"04": {
+			"hd": "hd-url",
+			"fhd": "fhd-url",
+			"uhd": "uhd-url"
+		}
 	}
 }
